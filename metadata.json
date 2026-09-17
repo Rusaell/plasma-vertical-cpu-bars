@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Rusyan"
+            }
+        ],
+        "Icon": "view-list-text",
+        "Id": "rusyan.verticalbars",
+        "License": "LGPLv2+",
+        "Name": "Vertical CPU Bars",
+        "Name[ru]": "Вертикальные столбцы CPU",
+        "Version": "1.0",
+        "Website": "github.com/Rusaell/plasma-vertical-cpu-bars"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}
