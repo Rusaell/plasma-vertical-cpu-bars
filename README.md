@@ -49,6 +49,7 @@ In the widget settings you can adjust:
 - Works on any distribution (tested on Artix Linux with OpenRC).
 </details>
 # 
+
 <a name="russian"></a>
 <details open>
    <summary><b>Русский</b></summary>
