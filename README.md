@@ -1,4 +1,3 @@
-# plasma-vertical-cpu-bars
 # Vertical CPU Bars for KDE Plasma
 
 A sensor face for the KDE Plasma **System Monitor** widget that displays CPU core usage as compact vertical bars. Especially useful for multi-core CPUs (16+ threads), where the standard horizontal bars don't fit nicely in a panel.
