@@ -1,3 +1,9 @@
+**[English](#english) · [Русский](#russian)**
+---
+<a name="english"></a>
+<details open>
+   <summary><b>English</b></summary>
+
 # Vertical CPU Bars for KDE Plasma
 
 A sensor face for the KDE Plasma **System Monitor** widget that displays CPU core usage as compact vertical bars. Especially useful for multi-core CPUs (16+ threads), where the standard horizontal bars don't fit nicely in a panel.
@@ -47,9 +53,11 @@ In the widget settings you can adjust:
 ## License
 
 This project is licensed under the **LGPL-2.1-or-later**. See the [LICENSE](LICENSE) file for details.
-
+</details>
 ---
-
+<a name="russian"></a>
+<details>
+<summary><b>Русский</b></summary>
 # Вертикальные столбцы CPU для KDE Plasma
 
 Стиль отображения для виджета **Системный монитор** в KDE Plasma, который показывает загрузку ядер процессора в виде компактных вертикальных столбцов. Особенно удобен для многоядерных CPU, где стандартные горизонтальные столбцы не помещаются в панель.
@@ -99,3 +107,4 @@ This project is licensed under the **LGPL-2.1-or-later**. See the [LICENSE](LICE
 ## Лицензия
 
 Проект распространяется под лицензией **LGPL-2.1-or-later**. Подробности — в файле [LICENSE](LICENSE).
+</details>
