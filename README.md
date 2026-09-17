@@ -48,12 +48,6 @@ In the widget settings you can adjust:
 - KDE Plasma 6 (or Plasma 5 with KSystemGuard 5.27+).
 - Works on any distribution (tested on Artix Linux with OpenRC).
 
-## License
-
-This project is licensed under the **LGPL-2.1-or-later**. See the [LICENSE](LICENSE) file for details.
-</details>
-
----
 <a name="russian"></a>
 <details open>
 <summary><b>Русский</b></summary>
@@ -103,8 +97,4 @@ This project is licensed under the **LGPL-2.1-or-later**. See the [LICENSE](LICE
 
 - KDE Plasma 6 (или Plasma 5 с KSystemGuard 5.27+).
 - Работает на любом дистрибутиве (протестировано на Artix Linux с OpenRC).
-
-## Лицензия
-
-Проект распространяется под лицензией **LGPL-2.1-or-later**. Подробности — в файле [LICENSE](LICENSE).
 </details>
