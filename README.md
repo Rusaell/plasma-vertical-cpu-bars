@@ -1,5 +1,3 @@
-**[English](#english) · [Русский](#russian)**
----
 <a name="english"></a>
 <details open>
    <summary><b>English</b></summary>
@@ -55,9 +53,11 @@ In the widget settings you can adjust:
 This project is licensed under the **LGPL-2.1-or-later**. See the [LICENSE](LICENSE) file for details.
 </details>
 ---
+
 <a name="russian"></a>
 <details>
 <summary><b>Русский</b></summary>
+   
 # Вертикальные столбцы CPU для KDE Plasma
 
 Стиль отображения для виджета **Системный монитор** в KDE Plasma, который показывает загрузку ядер процессора в виде компактных вертикальных столбцов. Особенно удобен для многоядерных CPU, где стандартные горизонтальные столбцы не помещаются в панель.
