@@ -52,10 +52,10 @@ In the widget settings you can adjust:
 
 This project is licensed under the **LGPL-2.1-or-later**. See the [LICENSE](LICENSE) file for details.
 </details>
----
 
+---
 <a name="russian"></a>
-<details>
+<details open>
 <summary><b>Русский</b></summary>
    
 # Вертикальные столбцы CPU для KDE Plasma
