@@ -50,7 +50,7 @@ In the widget settings you can adjust:
 
 <a name="russian"></a>
 <details open>
-<summary><b>Русский</b></summary>
+   <summary><b>Русский</b></summary>
    
 # Вертикальные столбцы CPU для KDE Plasma
 
