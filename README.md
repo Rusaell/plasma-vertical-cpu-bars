@@ -47,7 +47,7 @@ In the widget settings you can adjust:
 
 - KDE Plasma 6 (or Plasma 5 with KSystemGuard 5.27+).
 - Works on any distribution (tested on Artix Linux with OpenRC).
-
+</details>
 <a name="russian"></a>
 <details open>
    <summary><b>Русский</b></summary>
